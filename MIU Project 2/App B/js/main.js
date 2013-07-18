@@ -1,18 +1,8 @@
 /*
- Nathan Buth
- 3-9-2012
+ Ryan Cantone
+ 7-18-2013
  Project 2
- MIU 1203
- */
-
-/*
-Images are from:
-    http://123freevectors.com/guns-free-vector-2/
-    http://www.tutsking.com/vectors/weapons-pack
-    http://www.tutsking.com/vectors/guns-1
-    http://hereisfree.com/materials/download/6938.html
-    http://xooplate.com/templates/details/7302-medieval-weapons-silhouette-vector-set
-    http://jussfreevectorart.com/ninja-vector-art-set-1/
+ MIU 1307
 */
 
 window.addEventListener("DOMContentLoaded", function doItAll(){
